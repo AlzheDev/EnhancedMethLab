@@ -1,10 +1,10 @@
 # EnhancedMethLab
 
 ## Installation
-Drop your files at srcds/garrysmod/addons.
+Drop your files at `srcds/garrysmod/addons`.
 
 ## Configuration
-Config here : srcds/garrysmod/addons/enhanced_meth_lab/lua/autorun/eml_config.lua.
+Config at `srcds/garrysmod/addons/enhanced_meth_lab/lua/autorun/eml_config.lua`.
 
 ## You can help if you want.
 ### To Do List
