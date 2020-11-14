@@ -1,8 +1,3 @@
-
------------------------------------------------------
---I moved everything  to one file.
-
--- Drawing 3D2D things distance.
 EML_DrawDistance = 256;
 
 -- Stove consumption on heat amount.
@@ -26,7 +21,6 @@ EML_Stove_SmokeColor_B = 0;
 -- Stove indicator color.
 EML_Stove_IndicatorColor = Color(255, 222, 0, 255);
 
-
 -- Pot default time.
 EML_Pot_StartTime = 60;
 -- Default time, which will be added to pot on collision with Muriatic Acid.
@@ -36,7 +30,6 @@ EML_Pot_OnAdd_LiquidSulfur = 10;
 -- Change to false if you won't water/iodine/acid/sulfur disappear on empty.
 EML_Pot_DestroyEmpty = true;
 
-
 -- Special Pot default time.
 EML_SpecialPot_StartTime = 60;
 -- Default time, which will be added to pot on collision with Red Phosphorus.
@@ -45,7 +38,6 @@ EML_SpecialPot_OnAdd_RedPhosphorus = 20;
 EML_SpecialPot_OnAdd_CrystallizedIodine = 20;
 -- Change to false if you won't Red Phosphorus/Crystallized Iodine disappear on empty.
 EML_SpecialPot_DestroyEmpty = true;
-
 
 -- Default Liquid Sulfur amount.
 EML_Sulfur_Amount = 2;
@@ -59,7 +51,6 @@ EML_Iodine_Color = Color(137, 69, 54, 255);
 -- Default Water amount.
 EML_Water_Amount = 3;
 EML_Water_Color = Color(133, 202, 219, 255);
-
 
 -- Meth value modifier. (1500/lbs)
 EML_Meth_ValueModifier = 1500;
@@ -115,7 +106,6 @@ EML_Jar_CorrectShake = 4;
 EML_Jar_WrongShake = 1;
 -- Change to false if you won't acid/iodine/water disappear on empty.
 EML_Jar_DestroyEmpty = true;
-
 
 -- Default gas amount in gas canister.
 EML_Gas_Amount = 900;
